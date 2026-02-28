@@ -1,6 +1,6 @@
 # Squeezelite — Comprehensive Project Analysis
 
-> **Version analysed:** 2.0.0-1556  
+> **Version analyzed:** 2.0.0-1556  
 > **Original authors:** Adrian Smith (2012–2015), Ralph Irving (2015–2025)  
 > **License:** GNU GPLv3 (with OpenSSL linking exception)  
 > **Language:** C (with a small C++ wrapper for ALAC)
